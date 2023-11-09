@@ -27,7 +27,7 @@ Before you begin, make sure you have the following components and software insta
    ```bash
    git clone https://github.com/Ledrunning/Memory_Management_Algorithms.git
 
-## Algorithm illustration:
+## Algorithms illustration:
 
 <ul>
   <li>FIFO - First In, First Out </li>
